@@ -1,0 +1,459 @@
+.body {
+  width: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    
+    
+}
+/* Header */
+.header {
+    padding: 2em 0px;
+    background: #0731A2;
+    clear: both;
+}
+
+.header h1{
+    font-size: 250%;
+    color: white;
+    text-align: center;
+}
+
+.head-middle h1 a{
+	font-size:1em;
+    color:#fff;
+    text-decoration: none;
+	margin:0;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+/* End of Header */
+
+#nav{
+width: 100%;
+    font-size: 1.5em;
+    text-decoration: none;
+    float: left;
+    text-align: center;
+    
+    
+}
+
+a{
+    text-decoration: none;
+    padding: 1.5em;
+}
+.nav{
+  width: 100%;
+}
+
+.nav >li {
+    float: left;
+    display: inline;
+    text-align: center;
+      margin-right:30px;
+      position: relative;
+}
+
+.nav>ul{
+    width: 100%;
+    list-style: none;
+}
+
+.snav ul{
+        width: auto;
+        font-size: 1.3em;
+        text-decoration: none;
+        float: right;
+        text-align: right;
+        padding: 4px 5px;
+        margin: 10px 0px 10px 900px;
+    }
+
+
+ li a:link {
+    color: #0731A2;
+    
+}
+
+
+li a:visited{
+    color: #0731A2;
+}
+
+li a:hover{
+    color:#FF00FF
+    ;
+}
+
+li a:active{
+    color:#0000FF;
+}
+
+#content{
+    width: 100%;
+    float: left;
+    margin-top: 2px;
+    background:url(images/banner.jpg) no-repeat 0px 0px;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+	position: relative;
+}
+
+
+.content p{
+    color: #fff;
+    font-size: 60px;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 80px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    text-shadow: 2px 2px #847d7d;
+}
+
+
+.footer-main {
+height: 200px; 
+    background-color: transparent;
+    text-align: center;
+   margin-top: 500px;
+    color: #0000FF;
+    padding: 0.5em;
+    }
+
+
+    .footer{
+        float: left;
+        margin-left: 5pc;
+        background-color: #0731A2;
+       width: 25%;
+       height: 120px;
+       color: white;
+     }
+
+     .contf{
+         margin: 0 0;
+         padding: 0 0;
+     }
+.contf p{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.3em;
+    letter-spacing: 4px;
+    text-shadow: 1px 1px #d8d8d8;
+    text-align: center;
+}
+
+#tag{
+     color: white;
+    font-size: 18px;
+    text-align: center;
+}
+
+#tag1{
+    color: white;
+   font-size: 17px;
+   text-align: center;
+}
+#tag2{
+     color: white;
+    font-size: 17px;
+    text-align: center;
+}
+
+#tag3{
+  color: white;
+   font-size: 17px;
+   text-align: center;
+   padding: 0;
+}
+
+
+.content h3 {
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 40px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    text-shadow: 2px 2px #847d7d;
+}
+
+.abt{
+        
+           background-color: transparent;
+            text-align: left;
+         font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+            color: blue;
+            padding-left: 3em;
+            margin-top: 1em;
+            letter-spacing: 2px;
+            font-size: 1.2em;
+            
+}
+
+#div2{
+   float: left;
+ width: 200px;
+ font-size: 1.2em;
+ height: 300px;
+}
+.nav2{
+    list-style-type: none;
+    margin: 0 0 0 3em;
+    padding: 0;
+    }
+
+.nav2 li {
+    border-left: 15px solid #0731A2;
+    border-bottom: 5px solid #0731A2;
+    }
+
+.nav2 li a:link,
+.nav2 li a:visited {
+    background-color: rgb(192,202,229);
+    color: rgb(49,52,61);
+    padding: 0.5em;
+    display: block;
+    text-decoration: none;
+    border-left: 5px solid rgb(239,213,252);
+    }
+
+.nav2 li a:hover {
+        background-color: rgb(144,154,181);
+        color: rgb(255,255,255);
+        border-left: 5px solid rgb(250,136,234);
+        }
+
+.div3{
+    float: left;
+    width:300px;  
+    margin: 0 0;
+    padding-left: 100px;
+
+}
+
+    
+.divc{
+    width: 630px;
+    float: left;
+    padding-left: 5em;
+  }
+
+.divc h1{
+    color: blue;
+    text-align: center;
+}
+
+.divc p{
+  
+    text-align: justify; 
+}
+
+footer {
+    background-color:#191818;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+} 
+
+#list{
+    line-height: 1.5em;
+    list-style-type: square;
+}
+
+
+.container {
+ 
+    float: left;
+    clear: both;
+    vertical-align: baseline;
+    width: 960px;  
+    height: auto;
+      padding-left: 15em;
+}
+
+
+.col1{
+    float: left;
+     text-align: center;
+    font-family: "Open Sans", Arial, sans-serif;
+     font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+      width: 250px;
+      margin-right: 3em;
+    }
+
+
+.col1>h3{
+      font-size: 24px;
+       font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif; 
+    color: #4C4949;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    vertical-align: baseline;
+}
+
+.col1>p{
+    font-family: "Open Sans", Arial, sans-serif;
+      font-size: 12.8px;
+      font-weight: 300;
+    line-height: 22px;
+      text-align: center;
+    vertical-align: baseline;
+}
+
+
+.clear {
+    width: 100%; 
+    float: left; 
+    clear: both; 
+    margin: 20px 0;}
+
+.fcol{
+    margin-left: 4em;
+    margin-right: 8em;
+    padding: 0;
+    width: 220px;
+    float: left;
+}
+
+
+.contact {
+    
+       float: left;
+       clear: both;
+       vertical-align: baseline;
+       width: 1000px;  
+       height: auto;
+        padding: 0 10em;
+   }
+   
+   
+   .contact-left{
+      
+       float: left;
+       width: 300px;
+            text-align: left;
+            padding-top: 5em;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+        
+   }
+
+   .contact-right{
+         float: left;
+       width: 600px;
+      padding-left: 100px;
+   }       
+      
+.contact-right form {
+        margin-top: 12px;
+        color: #777;
+    }
+    .contact-right input[type="text"] {
+        background: transparent;
+        border: 2px solid #2e2a46;
+        padding: 8px 22px;
+        width: 40%;
+        outline: none;
+        margin-right: 9px;
+    }
+    .contact-right input[type="text"]:hover {
+        border-color:#da4bbd;
+    }
+
+    .contact-right textarea {
+        background: none;
+        border: 2px solid #2e2a46;
+        padding: 10px 23px;
+        margin-top: 24px;
+        outline: none;
+        resize: none;
+        width: 95%;
+        height: 230px;
+    }
+    .contact-right textarea:hover {
+        border-color:#da4bbd;
+    }
+    .contact-right form input[type="submit"] {
+        color: #fff;
+        font-size: 17px;
+        padding: 4px 0px;
+        margin-top: 25px;
+        width: 15%;
+        background: #da4bbd;
+        border: 2px solid #da4bbd;
+        outline: none;
+       
+    }
+    .contact-right form input[type="submit"]:hover {
+        color:#fff;
+        background:#2e2a46;
+        border: 2px solid #2e2a46;
+        
+    }
+
+ #mail{
+        font-size: 40px;
+     text-align: center;
+     margin-bottom:0px;
+     font-weight: 700;
+     text-transform: uppercase;
+     letter-spacing: 3px;
+     text-shadow: 4px 4px #c1c1c1;
+     color: #2e2a46;
+ }
+ 
+
+   .contact-left h1{
+       color: blue;
+   }
+
+   .contact-left p{
+    text-align: justify;
+    line-height: 25px;
+    font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+   }
+
+.add{
+
+    margin-top: 11px;
+   }
+
+   address {
+    margin: 7px 0 0 0;
+    line-height: 1.6em;
+}
+
+   .add h5{
+    color: #0732a2;
+    font-size: 1.5em;
+    margin:0;
+       
+   }
+
+
+
+
+
+
+footer {width: 100%; float: left; margin: 20px 0 0; padding: 30px 0; background: #333;}
+footer h2 {color: #ccc; 
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif}
+footer p {color: #aaa; line-height: 
+    17px; font-size: 15px; margin-bottom: 7px;}
+footer a {color: #ddd;}
+footer a:hover {color: #ff6a00;}
+
+    footer .social a {margin-right: 10px;}
+    footer .social a img { opacity: 0.4;}
+    footer .social a:hover img {opacity: 1;}
+    
